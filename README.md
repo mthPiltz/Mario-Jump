@@ -17,11 +17,11 @@ Pequeno projeto com HTML, CSS e JavaScaript
 
 <p>Voltar a estudar as tecnologias listadas acima </p>
 
-#Objetivo do jogo
++ Objetivo do jogo
 
 <p>Somar a maior quantidade de pontos pulando o tubo com o mario, para pular basta pressionar qualquer botão do teclado</p>
 
-#Como rodar a aplicação?
++ Como rodar a aplicação?
 
 <p>Rodar esta aplicação é bem simples, basta abrir o arquivo index.html</p>
 
